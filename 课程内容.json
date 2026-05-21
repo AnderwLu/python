@@ -1,0 +1,85 @@
+{
+  "title": "Python语言核心",
+  "author": "袁进",
+  "description": "此Python课程专为Agents应用开发设计，涵盖所有开发Agents应用所需的Python知识。全程干货、大量练习、重视概念和设计、弱化API使用，完美适配AI Coding时代。",
+  "playerPath": "",
+  "resourceUrl": "https://gitee.com/dev-edu/python-for-agent",
+  "skills": [
+    "python环境",
+    "pyenv",
+    "基本类型",
+    "容器类型",
+    "内置函数",
+    "LEGB作用域",
+    "lambda表达式",
+    "类",
+    "实例成员",
+    "类成员",
+    "静态成员",
+    "多继承",
+    "MRO",
+    "私有成员",
+    "metaclass",
+    "type类",
+    "callable",
+    "metaclass",
+    "装饰器",
+    "魔术方法"
+  ],
+  "type": "录播",
+  "status": "规划中",
+  "catalog": [
+    {
+      "title": "必看导言",
+      "showIndex": true
+    },
+    {
+      "title": "python环境安装",
+      "showIndex": true
+    },
+    {
+      "title": "python基本语法",
+      "showIndex": true
+    },
+    {
+      "title": "容器类型",
+      "showIndex": true
+    },
+    {
+      "title": "函数",
+      "showIndex": true
+    },
+    {
+      "title": "作用域",
+      "showIndex": true
+    },
+    {
+      "title": "lambda表达式",
+      "showIndex": true
+    },
+    {
+      "title": "类和对象",
+      "showIndex": true
+    },
+    {
+      "title": "对象的类型",
+      "showIndex": true
+    },
+    {
+      "title": "可调用对象",
+      "showIndex": true
+    },
+    {
+      "title": "元类",
+      "showIndex": true
+    },
+    {
+      "title": "装饰器",
+      "showIndex": true
+    },
+    {
+      "title": "魔术方法",
+      "showIndex": true
+    }
+  ]
+}
