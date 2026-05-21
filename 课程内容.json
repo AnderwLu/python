@@ -24,7 +24,8 @@
     "callable",
     "metaclass",
     "装饰器",
-    "魔术方法"
+    "魔术方法",
+    "属性描述符"
   ],
   "type": "录播",
   "status": "规划中",
@@ -79,6 +80,10 @@
     },
     {
       "title": "魔术方法",
+      "showIndex": true
+    },
+    {
+      "title": "描述符",
       "showIndex": true
     }
   ]
