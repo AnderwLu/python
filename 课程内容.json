@@ -33,6 +33,7 @@
     "可迭代协议",
     "推导式",
     "生成器表达式",
+    "上下文管理器",
     "文件I/O",
     "pip",
     "常用库",
@@ -43,8 +44,7 @@
     "虚拟环境管理",
     "代码测试",
     "性能优化",
-    "并发编程",
-    "上下文管理器"
+    "并发编程"
   ],
   "type": "录播",
   "status": "已上架",
@@ -118,19 +118,11 @@
       "showIndex": true
     },
     {
+      "title": "上下文管理器",
+      "showIndex": true
+    },
+    {
       "title": "I/O操作",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "OOP",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "常用魔术方法",
       "showIndex": true,
       "playerPath": "",
       "children": []
@@ -191,18 +183,6 @@
     },
     {
       "title": "并发编程",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "上下文管理器",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "pip",
       "showIndex": true,
       "playerPath": "",
       "children": []
