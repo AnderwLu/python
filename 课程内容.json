@@ -2,7 +2,7 @@
   "title": "Python语言核心",
   "author": "袁进",
   "description": "此Python课程专为Agents应用开发设计，涵盖所有开发Agents应用所需的Python知识。全程干货、大量练习、重视概念和设计、弱化API使用，完美适配AI Coding时代。",
-  "playerPath": "",
+  "playerPath": "AI大全栈 / Python语言核心精讲 / Python语言核心精讲",
   "resourceUrl": "https://gitee.com/dev-edu/python-for-agent",
   "skills": [
     "python环境",
@@ -25,10 +25,25 @@
     "metaclass",
     "装饰器",
     "魔术方法",
-    "属性描述符"
+    "属性描述符",
+    "异常处理",
+    "异常链",
+    "推导式",
+    "文件I/O",
+    "pip",
+    "常用库",
+    "工程化",
+    "调试",
+    "异步编程",
+    "类型注解",
+    "虚拟环境管理",
+    "代码测试",
+    "性能优化",
+    "并发编程",
+    "上下文管理器"
   ],
   "type": "录播",
-  "status": "规划中",
+  "status": "已上架",
   "catalog": [
     {
       "title": "必看导言",
@@ -67,6 +82,10 @@
       "showIndex": true
     },
     {
+      "title": "对象的创建过程",
+      "showIndex": true
+    },
+    {
       "title": "可调用对象",
       "showIndex": true
     },
@@ -85,6 +104,106 @@
     {
       "title": "描述符",
       "showIndex": true
+    },
+    {
+      "title": "异常处理",
+      "showIndex": true
+    },
+    {
+      "title": "推导式",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "I/O操作",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "OOP",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "常用魔术方法",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "pip",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "常用库",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "工程化",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "调试",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "异步编程",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "类型注解",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "虚拟环境管理",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "代码测试",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "性能优化",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "并发编程",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "上下文管理器",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
+    },
+    {
+      "title": "pip",
+      "showIndex": true,
+      "playerPath": "",
+      "children": []
     }
   ]
 }
