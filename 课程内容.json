@@ -28,7 +28,11 @@
     "属性描述符",
     "异常处理",
     "异常链",
+    "迭代器",
+    "生成器",
+    "可迭代协议",
     "推导式",
+    "生成器表达式",
     "文件I/O",
     "pip",
     "常用库",
@@ -110,10 +114,8 @@
       "showIndex": true
     },
     {
-      "title": "推导式",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
+      "title": "迭代器与生成器",
+      "showIndex": true
     },
     {
       "title": "I/O操作",
