@@ -36,6 +36,9 @@
     "上下文管理器",
     "ABC",
     "类型标注",
+    "模块化",
+    "python包",
+    "标准库",
     "文件I/O",
     "pip",
     "常用库",
@@ -132,6 +135,14 @@
       "showIndex": true
     },
     {
+      "title": "模块化",
+      "showIndex": true
+    },
+    {
+      "title": "标准库",
+      "showIndex": true
+    },
+    {
       "title": "I/O操作",
       "showIndex": true,
       "playerPath": "",
@@ -163,12 +174,6 @@
     },
     {
       "title": "异步编程",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "类型注解",
       "showIndex": true,
       "playerPath": "",
       "children": []
