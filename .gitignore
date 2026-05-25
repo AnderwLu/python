@@ -3,3 +3,6 @@ DS_Store
 
 # temp
 /temp
+
+# cache
+__pycache__
