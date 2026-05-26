@@ -41,12 +41,14 @@
     "标准库",
     "文件I/O",
     "pip",
+    "venv",
+    "虚拟环境管理",
+    "第三方库",
     "常用库",
     "工程化",
     "调试",
     "异步编程",
     "类型注解",
-    "虚拟环境管理",
     "代码测试",
     "性能优化",
     "并发编程"
@@ -143,22 +145,8 @@
       "showIndex": true
     },
     {
-      "title": "I/O操作",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "pip",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "常用库",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
+      "title": "第三方库",
+      "showIndex": true
     },
     {
       "title": "工程化",
