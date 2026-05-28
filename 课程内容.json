@@ -45,6 +45,8 @@
     "虚拟环境管理",
     "第三方库",
     "event loop",
+    "asyncio",
+    "Future类",
     "工程化",
     "调试",
     "异步编程",
@@ -150,6 +152,10 @@
     },
     {
       "title": "事件循环",
+      "showIndex": true
+    },
+    {
+      "title": "Future类",
       "showIndex": true
     },
     {
