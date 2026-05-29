@@ -50,6 +50,8 @@
     "协程 Coroutine",
     "async",
     "await",
+    "异步编程",
+    "并发控制",
     "工程化",
     "调试",
     "类型注解",
@@ -161,6 +163,10 @@
     },
     {
       "title": "协程 Coroutine",
+      "showIndex": true
+    },
+    {
+      "title": "异步编程",
       "showIndex": true
     },
     {
