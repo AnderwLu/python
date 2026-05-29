@@ -53,4 +53,4 @@ while a <= 5:
     else:
         b += a
     a += 1
-print(b)  # 20
+print(b)  # 28

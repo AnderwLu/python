@@ -47,13 +47,14 @@
     "event loop",
     "asyncio",
     "Future类",
+    "协程 Coroutine",
+    "async",
+    "await",
     "工程化",
     "调试",
-    "异步编程",
     "类型注解",
     "代码测试",
-    "性能优化",
-    "并发编程"
+    "性能优化"
   ],
   "type": "录播",
   "status": "已上架",
@@ -159,6 +160,10 @@
       "showIndex": true
     },
     {
+      "title": "协程 Coroutine",
+      "showIndex": true
+    },
+    {
       "title": "工程化",
       "showIndex": true,
       "playerPath": "",
@@ -171,18 +176,6 @@
       "children": []
     },
     {
-      "title": "异步编程",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "虚拟环境管理",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
       "title": "代码测试",
       "showIndex": true,
       "playerPath": "",
@@ -190,12 +183,6 @@
     },
     {
       "title": "性能优化",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "并发编程",
       "showIndex": true,
       "playerPath": "",
       "children": []
