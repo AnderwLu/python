@@ -12,3 +12,11 @@ __pycache__
 
 # frontend
 node_modules
+
+# build
+__pycache__/
+*.py[cod]
+build/
+*.egg-info/
+.venv/
+.env
