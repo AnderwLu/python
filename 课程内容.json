@@ -62,10 +62,9 @@
     "项目管理工具",
     "uv",
     "makefile",
-    "工程化",
-    "调试",
-    "代码测试",
-    "性能优化"
+    "monorepo",
+    "workspace",
+    "断点调试"
   ],
   "type": "录播",
   "status": "已上架",
@@ -191,28 +190,12 @@
       "showIndex": true
     },
     {
-      "title": "工程化",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
+      "title": "monorepo",
+      "showIndex": true
     },
     {
-      "title": "调试",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "代码测试",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
-    },
-    {
-      "title": "性能优化",
-      "showIndex": true,
-      "playerPath": "",
-      "children": []
+      "title": "断点调试",
+      "showIndex": true
     }
   ]
 }
