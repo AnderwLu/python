@@ -1,8 +1,8 @@
 {
-  "title": "Python语言核心",
+  "title": "Python语言核心精讲",
   "author": "袁进",
   "description": "此Python课程专为Agents应用开发设计，涵盖所有开发Agents应用所需的Python知识。全程干货、大量练习、重视概念和设计、弱化API使用，完美适配AI Coding时代。",
-  "playerPath": "AI大全栈 / Python语言核心精讲 / Python语言核心精讲",
+  "playerPath": "AI大全栈 / Python / Python语言核心精讲",
   "resourceUrl": "https://gitee.com/dev-edu/python-for-agent",
   "skills": [
     "python环境",
