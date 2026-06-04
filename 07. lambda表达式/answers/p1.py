@@ -70,7 +70,7 @@ print("==============价格最高的公司===============", list(result5), sep="
 def avg(inc):
     inc_products = filter(lambda it: it["inc"] == inc, products)
     inc_prices = list(map(lambda it: it["price"], inc_products))
-    return sum(inc_prices) / sum(inc_prices)
+    return sum(inc_prices) / len(inc_prices)
 
 
 companies = set(map(lambda it: it["inc"], products))
