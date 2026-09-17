@@ -65,3 +65,9 @@ print(c.area)       # 314.15...
 
 # del c.radius      # 调用 deleter
 # print(c.radius)   # AttributeError!
+
+
+def aa():
+    return 5
+
+print(aa)
