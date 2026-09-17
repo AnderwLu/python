@@ -8,12 +8,24 @@ def generator():
     print("生成器结束")
 
 
-g = generator()
-print("生成器已创建") # 生成器已创建
-print(next(g)) # 准备 yield 1. 1
-print("---") # ("---")
-print(next(g)) # 准备 yield 2  2
-print("---")# ("---")
-g.close()
-print("生成器已关闭") # 生成器已关闭
-print(next(g))
+# g = generator()
+# print("生成器已创建") # 生成器已创建
+# print(next(g)) # 准备 yield 1. 1
+# print("---") # ("---")
+# print(next(g)) # 准备 yield 2  2
+# print("---")# ("---")
+# g.close()
+# print("生成器已关闭") # 生成器已关闭
+# print(next(g))
+
+
+def aa():
+    try:
+        yield "开始了"
+        yield "第二次"
+    finally:
+        print("结束了")
+
+a = aa()
+print(next(a))
+# print(next(a))
