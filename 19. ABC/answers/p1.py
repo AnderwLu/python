@@ -67,6 +67,7 @@ print(memory_cache.get("name"))  # None
 
 file_cache = FileCache()
 file_cache.set("name", "Bob")
+file_cache.set("name1", "Bob")
 print(file_cache.get("name"))  # Bob
-file_cache.delete("name")
+# file_cache.delete("name")
 print(file_cache.get("name"))  # None
