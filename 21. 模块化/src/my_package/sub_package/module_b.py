@@ -1,5 +1,5 @@
 print("sub_package.module_b")
-
+print("sub_package.module_b的", __name__)
 __all__: list[str] = ["member1"]
 
 
