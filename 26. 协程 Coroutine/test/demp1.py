@@ -6,19 +6,24 @@ from typing import Coroutine
 def gather(*aws: Coroutine) -> asyncio.Future:
     # 你的代码
     future = asyncio.Future()
-    list = []
+    list = [None] * len(aws)
+    idx: int = 1
 
-    def add(fu: asyncio.Future, iterator):
-        list.append(fu.result())
-        run(iterator)
+    def add(fu: asyncio.Future, ix: int):
+        list[ix - 1] = fu.result()
+        if ix == len(aws):
+            future.set_result(list)
 
     def run(iterator):
         try:
             item = next(iterator)
             task = asyncio.create_task(item)
-            task.add_done_callback(lambda fu: add(fu, iterator))
+            nonlocal idx
+            task.add_done_callback(lambda fu, ix=idx: add(fu, ix))
+            idx += 1
+            run(iterator)
         except StopIteration as e:
-            future.set_result(list)
+            pass
 
     run(iter(aws))
     return future
